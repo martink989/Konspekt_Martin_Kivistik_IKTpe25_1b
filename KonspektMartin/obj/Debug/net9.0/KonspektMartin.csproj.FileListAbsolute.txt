@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\bin\Debug\net9.0\KonspektMartin.exe
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\bin\Debug\net9.0\KonspektMartin.deps.json
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\bin\Debug\net9.0\KonspektMartin.runtimeconfig.json
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\bin\Debug\net9.0\KonspektMartin.dll
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\bin\Debug\net9.0\KonspektMartin.pdb
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\obj\Debug\net9.0\KonspektMartin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\obj\Debug\net9.0\KonspektMartin.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\obj\Debug\net9.0\KonspektMartin.AssemblyInfo.cs
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\obj\Debug\net9.0\KonspektMartin.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\obj\Debug\net9.0\KonspektMartin.sourcelink.json
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\obj\Debug\net9.0\KonspektMartin.dll
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\obj\Debug\net9.0\refint\KonspektMartin.dll
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\obj\Debug\net9.0\KonspektMartin.pdb
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\obj\Debug\net9.0\KonspektMartin.genruntimeconfig.cache
+C:\Users\opilane\source\repos\KonspektMartin\KonspektMartin\KonspektMartin\obj\Debug\net9.0\ref\KonspektMartin.dll
